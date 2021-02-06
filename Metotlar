@@ -1,0 +1,14 @@
+namespace Metotlar
+{
+    1 reference
+    class SepetManager
+    {
+      //naming convention
+      //syntax
+      5 references
+      public void Ekle(Urun urun)
+      {
+         Console.WriteLine("Tebrikler, Sepete eklendi : " + urun.Adi);
+       }
+    }
+ }
